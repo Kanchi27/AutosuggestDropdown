@@ -1,0 +1,12 @@
+h1{
+    text-align: center
+}
+.suggestions-hide{
+    display: none;
+}
+.suggestions-show{
+    display: block;
+}
+.item{
+    
+}
